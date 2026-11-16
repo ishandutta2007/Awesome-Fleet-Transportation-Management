@@ -15,21 +15,26 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global fleet management software market is estimated at approximately **$10B to $13B** and projected to grow at a **14%–19% CAGR** through the 2030s. The sector is currently **moderately fragmented**—featuring hundreds of niche and regional telematics vendors alongside open-source platforms—but is steadily consolidating around enterprise giants (the top tier controls roughly 30%–35% market share) as customer demand shifts toward integrated IoT, AI video dashcams, and EV readiness.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[Samsara](https://www.samsara.com/)** | All-in-one fleet platform combining GPS tracking, AI dash cams, ELD compliance, and maintenance. | Quote-only (tiered by vehicles/features) | Free trial available |
-| **[Geotab](https://www.geotab.com/)** | Open-ecosystem telematics with 200+ integrations. Sold through resellers—contract terms and support vary by partner. | Quote-only (via resellers) | Demo via reseller |
-| **[Motive](https://gomotive.com/)** | Trucking-focused platform with strong ELD compliance, AI dash cams, and fuel card. | Quote-only | Free trial available |
-| **[Verizon Connect](https://www.verizonconnect.com/)** | Mature corporate option with strong reporting depth. | Quote-only | Demo via sales |
-| **[Fleetio](https://www.fleetio.com/)** | Maintenance-focused fleet management **without hardware requirements**. | Quote-only (per-vehicle) | Demo available |
-| **[Zoho Transport](https://www.zoho.com/)** | Fleet/transport management within the Zoho ecosystem (limited public information available). | Contact Zoho for pricing | Contact vendor |
+| Product | Company Size (Valuation / Revenue) | Pricing (Starting) | Free Tier / Trial Limits | Description |
+|---------|------------------------------------|-------------------|--------------------------|-------------|
+| **[Verizon Connect](https://www.verizonconnect.com/)** | **~$192B Market Cap** (Parent: Verizon; ~$1.6B segment revenue) | ~$20–$25/vehicle/month (3-year contract standard) | No free forever plan; demo-based trial/pilot arranged via sales consultation (typically up to 30 days upon inquiry) | Mature enterprise telematics suite with deep reporting, routing, and compliance tools. |
+| **[Samsara](https://www.samsara.com/)** | **~$24B Market Cap** (~$1.8B ARR / FY26 revenue) | ~$27–$33/vehicle/month (Hardware separate; typically 3-year term) | No free forever plan; 30-day evaluation trial available upon request (hardware must be returned within 30 days) | All-in-one connected operations combining GPS tracking, AI dash cams, ELD compliance, and maintenance. |
+| **[Zoho Transport](https://www.zoho.com/)** | **~$10B–$12.5B Est. Valuation** (Private; ~$1.5B revenue) | $8/user/month (Zoho Creator Standard, billed annually, or $12/user/month billed monthly) | No free forever tier for multi-user; 15-day free trial on Zoho Creator (full access to build/deploy fleet app template, no credit card required) | Fleet and transport management templates deployed within the Zoho Creator low-code cloud ecosystem. |
+| **[Motive](https://gomotive.com/)** | **~$2.85B–$3.1B Valuation** (Private; ~$500M+ ARR) | ~$25/vehicle/month (Gateway ELD hardware ~$150; 12-month minimum contract) | No free forever plan for telematics; no standard public software trial (sales-assisted demos provided; 90-day trial for select Workforce Management add-on modules) | Trucking-focused platform with industry-leading ELD compliance, AI dash cams, and driver safety features. |
+| **[Fleetio](https://www.fleetio.com/)** | **~$1.5B Valuation** (Private; ~$50M–$100M ARR) | $4/vehicle/month (Essential plan, billed annually, or $5/vehicle/month billed monthly) | No free forever plan; 14-day free trial (full access to core maintenance tracking, no credit card required) | Maintenance-focused fleet management with automated service tracking and integrations, without requiring proprietary hardware. |
+| **[Geotab](https://www.geotab.com/)** | **>$1B Unicorn Valuation** (Private; ~$1B+ annual revenue) | ~$10–$15/vehicle/month for base software tier (~$30–$40/vehicle/month bundled with GO hardware via resellers) | No free forever plan; no self-serve free trial (custom pilot/trial programs and live demos coordinated directly through authorized resellers) | Open-ecosystem telematics connecting 5M+ vehicles worldwide with 200+ third-party marketplace integrations. |
 
 ## Open-Source GitHub Projects
 
