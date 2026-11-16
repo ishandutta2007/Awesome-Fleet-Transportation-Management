@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Fleet-Transportation-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Fleet-Transportation-Management?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Fleet-Transportation-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Fleet-Transportation-Management?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Fleet-Transportation-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Fleet-Transportation-Management?style=flat-square&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Fleet-Transportation-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Fleet-Transportation-Management?style=flat-square&color=red" alt="GitHub Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Fleet-Transportation-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -63,9 +63,9 @@ Below is a benchmark of leading commercial enterprise fleet management and telem
 
 ## 💻 Open-Source Transportation & Telematics Engines
 
-Self-hosted platforms, routing calculation engines, and fleet ERP modules sorted by **GitHub Star Count** (descending). Each star badge links directly to the respective repository's stargazers list.
+Self-hosted platforms, routing calculation engines, and fleet ERP modules sorted by **GitHub Stars_Count** (descending). Each Stars_Badge links directly to the respective repository's stargazers list.
 
-| Project | GitHub Stars | Architecture / Stack | Primary Focus & Capabilities |
+| Project | GitHub_Stars | Architecture / Stack | Primary Focus & Capabilities |
 |:---|:---|:---|:---|
 | **[OSRM Backend](https://github.com/Project-OSRM/osrm-backend)** | [![Stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social&color=white)](https://github.com/Project-OSRM/osrm-backend/stargazers) | C++20 / OpenStreetMap | **High-performance routing engine.** Delivers sub-millisecond point-to-point routing, distance/duration table calculations, map-matching, and trip planning at global scale. |
 | **[Traccar](https://github.com/traccar/traccar)** | [![Stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers) | Java / Modern Web UI / SQL | **The premier open-source GPS tracking platform.** Supports **200+ GPS communication protocols and 2,000+ hardware models**. Features real-time telemetry, geofencing, driver behavior monitoring, and Docker Compose deployment. |
@@ -102,7 +102,7 @@ Contributions are welcome and appreciated! Help keep this curated landscape up t
 3. 📝 Add your tool or library following the existing markdown schema:
    - Provide an accurate description, stack details, and official URL.
    - For SaaS products, verify specific starting prices and explicit trial terms.
-   - For open-source projects, ensure the GitHub repository link and star badge are present.
+   - For open-source projects, ensure the GitHub repository link and Stars_Badge are present.
 4. 🚀 Open a **Pull Request** detailing why the tool belongs in this curated collection.
 
 ---
